@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizSport</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_qustion_number_two">QustionNumberTwo</string>
+    <string name="title_activity_result">ResultActivit</string>
+    <string name="title_activity_quiz_activitys">QuizActivitys</string>
+
+</resources>

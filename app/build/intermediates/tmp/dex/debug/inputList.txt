@@ -1,0 +1,5 @@
+/Users/talrimer/Desktop/QuizSports/app/build/intermediates/classes/debug
+/Users/talrimer/Desktop/QuizSports/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-0b91e7281ef38843b58724caa04e93ee9d3b5da2.jar
+/Users/talrimer/Desktop/QuizSports/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a62dc81888ab99e417945b4cc988903388a4bb74.jar
+/Users/talrimer/Desktop/QuizSports/app/build/intermediates/pre-dexed/debug/classes-dbffb427559db975412161a6ef54bf56822e6a4a.jar
+/Users/talrimer/Desktop/QuizSports/app/build/intermediates/pre-dexed/debug/classes-fc318ff069c5d3a2d032e402fd1c499fe15cae9d.jar

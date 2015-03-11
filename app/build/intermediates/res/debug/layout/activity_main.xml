@@ -1,0 +1,38 @@
+<RelativeLayout
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:id="@+id/Relativelayput1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sportsresult"
+        android:id="@+id/SportQuiz"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="80dp"/>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start New Game"
+        android:layout_marginLeft="30dp"
+        android:layout_alignTop="@+id/SportQuiz"
+        android:layout_marginTop="300dp"
+        style="@android:style/ButtonBar"
+        android:onClick="btnClick"
+        android:id="@+id/Start"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tal Rimer"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:textColor="@color/background_floating_material_dark"/>
+
+
+
+</RelativeLayout>
+<!-- From: file:/Users/talrimer/Desktop/QuizSports/app/src/main/res/layout/activity_main.xml -->
